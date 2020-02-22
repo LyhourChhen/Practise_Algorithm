@@ -49,3 +49,4 @@ str = 'Python' #initial string
 reversed=''.join(reversed(str)) # .join() method merges all of the characters resulting from the reversed iteration into a new string
 print(reversed) #print the reversed string
 
+###
